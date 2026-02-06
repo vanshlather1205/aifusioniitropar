@@ -1,0 +1,7 @@
+{
+  "name": "ProjectNexus Campus Hub",
+  "description": "A comprehensive college platform for a smarter, more efficient student life, featuring AI-powered mail summaries, real-time dining menus, and a campus marketplace.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

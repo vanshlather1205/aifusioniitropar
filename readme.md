@@ -1,5 +1,7 @@
 🌌 Project NEXUS
 VIDEO LINK FOR OVERVIEW OF THE PROJECT : https://drive.google.com/file/d/1QeXugEusX39WWz7PQ4z0XdwGJkddBOlN/view?usp=drive_link
+
+EDIT : LINK FOR OUR SITE : https://ai.studio/apps/drive/1wq5ejoCxhELIsDaNhjdUehVLGuT4M9gt
 PROJECT NEXUS is an all-in-one smart campus companion designed to simplify student life by bringing academics, communication, navigation, and campus services into a single unified platform.
 
 Prepared by Vansh and Vibhor
